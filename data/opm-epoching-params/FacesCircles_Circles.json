@@ -1,0 +1,10 @@
+{
+  "t0marker": ["Trigger 7 [Z]"],
+  "t0shift": 0.05,
+  "tEpoch": [-1, 2],
+  "tInterest": [-0.9, 1.9],
+  "details": [{
+    "trigName": "Trigger 7 [Z]",
+    "name": "Circles"
+  }]
+}

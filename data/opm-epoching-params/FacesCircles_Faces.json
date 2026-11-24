@@ -1,0 +1,13 @@
+{
+  "t0marker": ["Trigger 3 [Z]", "Trigger 5 [Z]"],
+  "t0shift": 0.05,
+  "tEpoch": [-1, 1.1],
+  "tInterest": [-0.5, 1.0],
+  "details": [{
+	"trigName": "Trigger 3 [Z]",
+    "name": "Angry"    
+  }, {
+	"trigName": "Trigger 5 [Z]",
+    "name": "Happy"
+  }]
+}
